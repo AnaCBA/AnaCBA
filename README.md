@@ -5,7 +5,7 @@
 
 <p align=center>✨Conocimiento básico de Python y HTML✨</p>
 
- <img src="https://i.gifer.com/g0R5.gif" width=20px height=20px> <em>Aprendiendo...</em>
+ <img src="https://i.gifer.com/g0R5.gif" width=20px height=20px> Aprendiendo...
 
 
 <!--
