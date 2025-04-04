@@ -3,7 +3,7 @@
 
 <p align=center>Soy estudiante de universidad, pregrado de Estadistica😉</p>
 
-<p align=center>✨Conocimiento básico de python y html✨</p>
+<p align=center>✨Conocimiento básico de Python y HTML✨</p>
 
  <img src="https://i.gifer.com/g0R5.gif" width=20px height=20px> <em>Aprendiendo...</em>
 
