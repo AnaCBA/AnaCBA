@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cookie&size=40&letterSpacing=&duration=4000&pause=2000&color=00F7EE&background=006D6914&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+
+My name is Ana Catalina Barco
 <!--
 **AnaCBA/AnaCBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
